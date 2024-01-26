@@ -22,5 +22,11 @@ public class Operators {
 
         l %= 2;
         System.out.println(l);
+
+        l++;
+        System.out.println(l);
+
+        l--;
+        System.out.println(l);
     }
 }
