@@ -13,10 +13,13 @@ Console.WriteLine(caracter);
 string name= "Luis";
 int gameScore= 1200;
 decimal particlesPerMillion= 23.58349839484M;
+float grams= 34.2343F;
+double atoms= 4.8439;
 bool isMarried= false;
 var message= "Nice to see u!";//implicitly typed local variable.
 //the type of the local variable is obtained from the expression used to initialize the variable
 //always var variable has to be initialized
 
 //  var delivery; //error!!
+
 

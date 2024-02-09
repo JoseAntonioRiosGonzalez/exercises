@@ -1,0 +1,14 @@
+/Users/2024/csharp/Microsoft/stringInterpolation/bin/Debug/net8.0/stringInterpolation
+/Users/2024/csharp/Microsoft/stringInterpolation/bin/Debug/net8.0/stringInterpolation.deps.json
+/Users/2024/csharp/Microsoft/stringInterpolation/bin/Debug/net8.0/stringInterpolation.runtimeconfig.json
+/Users/2024/csharp/Microsoft/stringInterpolation/bin/Debug/net8.0/stringInterpolation.dll
+/Users/2024/csharp/Microsoft/stringInterpolation/bin/Debug/net8.0/stringInterpolation.pdb
+/Users/2024/csharp/Microsoft/stringInterpolation/obj/Debug/net8.0/stringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/2024/csharp/Microsoft/stringInterpolation/obj/Debug/net8.0/stringInterpolation.AssemblyInfoInputs.cache
+/Users/2024/csharp/Microsoft/stringInterpolation/obj/Debug/net8.0/stringInterpolation.AssemblyInfo.cs
+/Users/2024/csharp/Microsoft/stringInterpolation/obj/Debug/net8.0/stringInterpolation.csproj.CoreCompileInputs.cache
+/Users/2024/csharp/Microsoft/stringInterpolation/obj/Debug/net8.0/stringInterpolation.dll
+/Users/2024/csharp/Microsoft/stringInterpolation/obj/Debug/net8.0/refint/stringInterpolation.dll
+/Users/2024/csharp/Microsoft/stringInterpolation/obj/Debug/net8.0/stringInterpolation.pdb
+/Users/2024/csharp/Microsoft/stringInterpolation/obj/Debug/net8.0/stringInterpolation.genruntimeconfig.cache
+/Users/2024/csharp/Microsoft/stringInterpolation/obj/Debug/net8.0/ref/stringInterpolation.dll

@@ -1,0 +1,14 @@
+/Users/2024/csharp/Microsoft/format/bin/Debug/net8.0/format
+/Users/2024/csharp/Microsoft/format/bin/Debug/net8.0/format.deps.json
+/Users/2024/csharp/Microsoft/format/bin/Debug/net8.0/format.runtimeconfig.json
+/Users/2024/csharp/Microsoft/format/bin/Debug/net8.0/format.dll
+/Users/2024/csharp/Microsoft/format/bin/Debug/net8.0/format.pdb
+/Users/2024/csharp/Microsoft/format/obj/Debug/net8.0/format.GeneratedMSBuildEditorConfig.editorconfig
+/Users/2024/csharp/Microsoft/format/obj/Debug/net8.0/format.AssemblyInfoInputs.cache
+/Users/2024/csharp/Microsoft/format/obj/Debug/net8.0/format.AssemblyInfo.cs
+/Users/2024/csharp/Microsoft/format/obj/Debug/net8.0/format.csproj.CoreCompileInputs.cache
+/Users/2024/csharp/Microsoft/format/obj/Debug/net8.0/format.dll
+/Users/2024/csharp/Microsoft/format/obj/Debug/net8.0/refint/format.dll
+/Users/2024/csharp/Microsoft/format/obj/Debug/net8.0/format.pdb
+/Users/2024/csharp/Microsoft/format/obj/Debug/net8.0/format.genruntimeconfig.cache
+/Users/2024/csharp/Microsoft/format/obj/Debug/net8.0/ref/format.dll
