@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("String");// for String
+﻿Console.WriteLine("String");// for String
 Console.WriteLine('c');// for char
 Console.WriteLine(123);
 Console.WriteLine(0.25F);// float

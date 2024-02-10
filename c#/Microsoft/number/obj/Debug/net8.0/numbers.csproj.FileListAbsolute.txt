@@ -1,0 +1,14 @@
+/Users/2024/csharp/Microsoft/numbers/bin/Debug/net8.0/numbers
+/Users/2024/csharp/Microsoft/numbers/bin/Debug/net8.0/numbers.deps.json
+/Users/2024/csharp/Microsoft/numbers/bin/Debug/net8.0/numbers.runtimeconfig.json
+/Users/2024/csharp/Microsoft/numbers/bin/Debug/net8.0/numbers.dll
+/Users/2024/csharp/Microsoft/numbers/bin/Debug/net8.0/numbers.pdb
+/Users/2024/csharp/Microsoft/numbers/obj/Debug/net8.0/numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/2024/csharp/Microsoft/numbers/obj/Debug/net8.0/numbers.AssemblyInfoInputs.cache
+/Users/2024/csharp/Microsoft/numbers/obj/Debug/net8.0/numbers.AssemblyInfo.cs
+/Users/2024/csharp/Microsoft/numbers/obj/Debug/net8.0/numbers.csproj.CoreCompileInputs.cache
+/Users/2024/csharp/Microsoft/numbers/obj/Debug/net8.0/numbers.dll
+/Users/2024/csharp/Microsoft/numbers/obj/Debug/net8.0/refint/numbers.dll
+/Users/2024/csharp/Microsoft/numbers/obj/Debug/net8.0/numbers.pdb
+/Users/2024/csharp/Microsoft/numbers/obj/Debug/net8.0/numbers.genruntimeconfig.cache
+/Users/2024/csharp/Microsoft/numbers/obj/Debug/net8.0/ref/numbers.dll
