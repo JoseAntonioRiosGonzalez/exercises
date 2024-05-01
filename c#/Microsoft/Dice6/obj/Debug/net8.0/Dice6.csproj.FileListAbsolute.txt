@@ -1,0 +1,14 @@
+/Users/SHARING/exercises/csharp/Microsoft/Dice6/bin/Debug/net8.0/Dice6
+/Users/SHARING/exercises/csharp/Microsoft/Dice6/bin/Debug/net8.0/Dice6.deps.json
+/Users/SHARING/exercises/csharp/Microsoft/Dice6/bin/Debug/net8.0/Dice6.runtimeconfig.json
+/Users/SHARING/exercises/csharp/Microsoft/Dice6/bin/Debug/net8.0/Dice6.dll
+/Users/SHARING/exercises/csharp/Microsoft/Dice6/bin/Debug/net8.0/Dice6.pdb
+/Users/SHARING/exercises/csharp/Microsoft/Dice6/obj/Debug/net8.0/Dice6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SHARING/exercises/csharp/Microsoft/Dice6/obj/Debug/net8.0/Dice6.AssemblyInfoInputs.cache
+/Users/SHARING/exercises/csharp/Microsoft/Dice6/obj/Debug/net8.0/Dice6.AssemblyInfo.cs
+/Users/SHARING/exercises/csharp/Microsoft/Dice6/obj/Debug/net8.0/Dice6.csproj.CoreCompileInputs.cache
+/Users/SHARING/exercises/csharp/Microsoft/Dice6/obj/Debug/net8.0/Dice6.dll
+/Users/SHARING/exercises/csharp/Microsoft/Dice6/obj/Debug/net8.0/refint/Dice6.dll
+/Users/SHARING/exercises/csharp/Microsoft/Dice6/obj/Debug/net8.0/Dice6.pdb
+/Users/SHARING/exercises/csharp/Microsoft/Dice6/obj/Debug/net8.0/Dice6.genruntimeconfig.cache
+/Users/SHARING/exercises/csharp/Microsoft/Dice6/obj/Debug/net8.0/ref/Dice6.dll
